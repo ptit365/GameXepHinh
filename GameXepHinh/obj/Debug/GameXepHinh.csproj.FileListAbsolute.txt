@@ -1,0 +1,22 @@
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\bin\Debug\GameXepHinh.exe
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\bin\Debug\GameXepHinh.pdb
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\obj\Debug\GameXepHinh.FormMode.resources
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\obj\Debug\GameXepHinh.FormTraLoi.resources
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\obj\Debug\GameXepHinh.exe
+C:\Users\AVIshop\AppData\Local\Temporary Projects\GameXepHinh\obj\Debug\GameXepHinh.pdb
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe.config
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.exe
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.pdb
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.exe
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\bin\Debug\GameXepHinh.pdb
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csprojResolveAssemblyReference.cache
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Form1.resources
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.FormMode.resources
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.FormTraLoi.resources
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.Properties.Resources.resources
+d:\Users\AVIshop\Documents\Visual Studio 2012\Projects\GameXepHinh\GameXepHinh\obj\Debug\GameXepHinh.csproj.GenerateResource.Cache
